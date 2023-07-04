@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "994032623133",
+    "project_id": "chatapp-b4f8c",
+    "storage_bucket": "chatapp-b4f8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994032623133:android:59c6efa865c2cf622970f4",
+        "android_client_info": {
+          "package_name": "com.example.educationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994032623133-mbr5hddb7jt9ku77squ6mad6re4f6jt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYKGFfZLyEwAjvT350iC1fvJTuD_kvSMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994032623133-mbr5hddb7jt9ku77squ6mad6re4f6jt4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994032623133-clmdqgm7hnhtf1r9mc4jkqqijsnvhgob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.educationapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
